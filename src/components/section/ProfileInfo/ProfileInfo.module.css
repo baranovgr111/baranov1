@@ -1,0 +1,23 @@
+.ProfileInfo {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 20px;
+    width: 60%;
+    height: 100%;
+}
+
+.ProfileInfo_inner {
+    border-radius: 10px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: white;
+    height: 20%;
+    width: 90%;
+}
+
+.a {
+    text-decoration: none;
+}
